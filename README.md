@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ioannis KESISOGLOU and I am a fifth year student at EPITECH!
-- 👀 I’m interested in mobile app development and more generally front-end.
+- 👋 Hi, I’m Ioannis KESISOGLOU and I am a freelance developer!
+- 👀 Graduated from EPITECH, I'm specialized in mobile app development and more generally front-end.
 - 🌱 I’m currently using and stepping up my game with React Native.
 - 📫 You can reach me at kesisoglou.ioannis@gmail.com for any inquiries.
 
