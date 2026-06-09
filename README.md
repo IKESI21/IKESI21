@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ioannis KESISOGLOU and I am a freelance developer!
-- 👀 Graduated from EPITECH, I'm specialized in mobile app development and more generally front-end.
-- 🌱 I’m currently using and stepping up my game with React Native.
+- 👀 Graduated from EPITECH, I'm specialized in mobile app development
 - 📫 You can reach me at kesisoglou.ioannis@gmail.com for any inquiries.
 
 <!---
